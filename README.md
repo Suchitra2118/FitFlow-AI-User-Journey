@@ -3,7 +3,7 @@
 ## Intern Details
 - **Company:** SkillCraft Technology
 - **Internship Domain:** UI/UX Design
-
+- **Intern ID:** CITS3937
 
 ## Project Name
 FitFlow AI – User Journey Design
@@ -19,28 +19,28 @@ Designed a complete user journey for an AI-powered fitness mobile application. T
 ## Screens
 
 ### 01 Project Overview
-![Project Overview](01%20Project%20Overview.png)
+![Project Overview](01%20-%20Project%20Overview.png)
 
 ### 02 Welcome
-![Welcome](02%20Welcome.png)
+![Welcome](02%20-%20Welcome.png)
 
 ### 03 Create Account
-![Create Account](03%20Create%20Account.png)
+![Create Account](03%20-%20Create%20Account.png)
 
 ### 04 Tell Us About Yourself
-![Tell Us About Yourself](04%20Tell%20Us%20About%20Yourself.png)
+![Tell Us About Yourself](04%20-%20Tell%20Us%20About%20Yourself.png)
 
 ### 05 Choose Goal
-![Choose Goal](05%20Choose%20Goal.png)
+![Choose Goal](05%20-%20Choose%20Goal.png)
 
 ### 06 Workout Preferences
-![Workout Preferences](06%20Workout%20Preferences.png)
+![Workout Preferences](06%20-%20Workout%20Preferences.png)
 
 ### 07 AI Fitness Plan
-![AI Fitness Plan](07%20AI%20Fitness%20Plan.png)
+![AI Fitness Plan](07%20-%20AI%20Fitness%20Plan.png)
 
 ### 08 Dashboard
-![Dashboard](08%20Dashboard.png)
+![Dashboard](08%20-%20Dashboard.png)
 
 ## Outcome
-Created a clean, user-friendly mobile app journey with a modern interface, personalized onboarding, AI-generated fitness planning, and an engaging dashboard experience.
+Created a clean and user-friendly AI fitness application with an intuitive onboarding flow, personalized workout planning, goal selection, preference-based recommendations, and an interactive dashboard that enhances the overall user experience.
