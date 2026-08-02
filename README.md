@@ -3,7 +3,7 @@
 ## Intern Details
 - **Company:** SkillCraft Technology
 - **Internship Domain:** UI/UX Design
-- **Intern ID:** CITS3937
+
 
 ## Project Name
 FitFlow AI – User Journey Design
